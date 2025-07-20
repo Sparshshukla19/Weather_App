@@ -38,7 +38,7 @@ async function getWeather(city){
         // console.log(data);
     }
     catch(e){
-
+     alert("error");
     }
 }
 
